@@ -1,0 +1,39 @@
+#my_popup{ width:600px; height:400px; background-color:#FFF; display:none; z-index:+300; position:absolute; left:30%; top:20%; -moz-border-radius: 15px;  -webkit-border-radius: 15px;
+border-radius: 15px;}
+#button{
+	margin-left : 4%;
+}
+#buttons{
+text-align : right;	
+}
+.checkbox{
+	margin-left : 3%;
+}
+#follcount{
+	font-style: italic;
+	font-size: 10px; 
+}
+@font-face {
+    font-family: RockyMountainBeauty;
+    src:url(../font/RockyMountainBeauty.ttf);
+}
+@font-face {
+    font-family: RobotoLight;
+    src:url(../font/Roboto-Light.ttf);
+}
+.title{
+	font-family: RobotoLight;
+	font-size: 60px;
+}
+body{
+	background-color:#ffff;
+}
+#profile{
+	margin-left: 33%;
+}
+
+#my_popup{
+	min-width: 400px;
+	min-height: 500px;
+}
+
